@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks change of files.
 Hello luckypm!
 test branch and simple
+test no-ff branch merge
