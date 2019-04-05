@@ -1,0 +1,3 @@
+[submodule "learnSubmodule"]
+	path = learnSubmodule
+	url = https://github.com/luckypm/learnSubmodule.git
