@@ -7,3 +7,4 @@ test branch and simple
 test no-ff branch merge
 test bug fix
 test submodule
+hello local computer
